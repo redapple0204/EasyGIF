@@ -1,0 +1,18 @@
+# EasyGIF
+
+EasyGIF 是一个简易的 GIF 录屏工具：先框选区域，再开始/停止录制，支持剪辑预览后保存 GIF。
+
+## 环境
+- Windows 10/11
+- Python 3.10+
+
+## 安装
+```bash
+pip install -r requirements.txt
+```
+
+## 运行
+```bash
+python app.py
+```
+
