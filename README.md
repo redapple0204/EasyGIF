@@ -5,6 +5,9 @@ EasyGIF 是一个简易的 GIF 录屏工具：先框选区域，再开始/停止
 ## 环境
 - Windows 10/11
 - Python 3.10+
+- 
+## 截图
+<img width="521" height="351" alt="image" src="https://github.com/user-attachments/assets/6f848e2a-fea2-48b0-999d-555c47975f3f" />
 
 ## 安装
 ```bash
